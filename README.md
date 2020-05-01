@@ -1,2 +1,2 @@
 # perfection
-data for F. Cariani and L. J. Rips "Conditional Perfection"
+this document contains experimental vignettes for F. Cariani and L. J. Rips "Experimenting with (Conditional) Perfection"
